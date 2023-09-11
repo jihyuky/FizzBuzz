@@ -9,6 +9,7 @@ public class Multiples {
             i++;
         }
         System.out.println(counter);
+        System.out.println("Testing Pulling");
 
     }
 }
